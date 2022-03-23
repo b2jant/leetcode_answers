@@ -1,1 +1,1 @@
-All Golang Solutions!!:
+All Golang Solutions!
